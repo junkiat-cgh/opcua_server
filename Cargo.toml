@@ -1,0 +1,7 @@
+[package]
+name = "opcua_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+opcua = "0.12.0"
